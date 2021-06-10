@@ -7,4 +7,5 @@ List of scripts and descriptions
 2-groups : Prints all the groups the current user is part of.
 3-new_owner : Changes the owner of the file hello to the user betty.
 4-empty : Creates an empty file called hello.
-6-execute : Adds execute permission to the owner of the file hello.
+5-execute : Adds execute permission to the owner of the file hello.
+6-multiple_permissions : Adds execute permission to the owner and the group owner, and read permissioin to other user, to the file hello.
