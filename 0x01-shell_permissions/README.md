@@ -22,3 +22,4 @@ List of scripts and descriptions
 13-change_group : Changes the group owner to holberton for the file hello.
 
 100-change_owner_and_group : Changes the owner to holberton for all the files and directories in the working directory.
+101-symbolic_link_permissions : Changes the owner and the group owner of _hello to betty and holberton 
