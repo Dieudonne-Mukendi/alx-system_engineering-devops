@@ -9,4 +9,4 @@ List of scripts and descriptions
 4-empty : Creates an empty file called hello.
 5-execute : Adds execute permission to the owner of the file hello.
 6-multiple_permissions : Adds execute permission to the owner and the group owner, and read permissioin to other user, to the file hello.
-7-everybody : Script that give full permission to everybody on the file hello.
+7-everybody : Script that give full execute permission to everybody on the file hello.
