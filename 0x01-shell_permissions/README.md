@@ -24,3 +24,4 @@ List of scripts and descriptions
 100-change_owner_and_group : Changes the owner to holberton for all the files and directories in the working directory.
 101-symbolic_link_permissions : Changes the owner and the group owner of _hello to betty and holberton
 102-if_only : Changes the owner of the file hello to betty only if it is owned by the user guillaume.
+103-star_Wars : Script to play the StarWars IV episode in the terminal.
