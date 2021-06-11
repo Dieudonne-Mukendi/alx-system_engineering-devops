@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e $(ls -ma -F) "\n"
+ls -pma
